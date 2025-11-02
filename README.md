@@ -29,4 +29,8 @@ source devel/setup.bash
 
 # 6) 실행
 roslaunch limo_lane lane_node.launch
+```
+## Limo 기본 bringup 실행
+``` bash
+roslaunch limo_bringup limo_start.launch
 
