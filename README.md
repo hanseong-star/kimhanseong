@@ -12,8 +12,7 @@ cd ~/limo_ws/src
 catkin_create_pkg limo_lane roscpp rospy ...
 #package name = limo_lane 뒤에는 필요한 package
 
-\
-ex) 카메라 package
+\ ex) 카메라 package
 
 ```bash
 catkin_create_pkg limo_lane roscpp rospy std_msgs sensor_msgs cv_bridge image_transport
